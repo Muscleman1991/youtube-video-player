@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mytext" type="id" />
+    <item name="videolist" type="id" />
+    <item name="videoviewer" type="id" />
+</resources>
